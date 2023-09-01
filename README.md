@@ -14,6 +14,7 @@
 - ``` click Start Button ```
 
 ## Load Testing Report:
-
+![Load Test](https://github.com/fahimmahatab/Random-User-API-Performance-Test/assets/43899673/c541df8a-c201-4432-9377-38d85018747e)
 
 ## Stress Testing Report:
+![Stress test](https://github.com/fahimmahatab/Random-User-API-Performance-Test/assets/43899673/e8ece875-2d65-4a8c-aad8-e7c61174f047)
